@@ -1,4 +1,3 @@
-# blog_cards
 # Responsive Blog Cards Project
 
 This project is a simple responsive blog layout built using **HTML5** and **CSS3**.  
@@ -44,7 +43,7 @@ project-folder/
 ## 📖 How to Use
 1. **Clone or Download the Repository**  
    ```bash
-   git clone https://github.com/your-username/responsive-blog-cards.git
+   git clone https://github.com/CharlesKJunior/blog_cards.git
    cd responsive-blog-cards
 
 
@@ -99,5 +98,3 @@ You can modify and distribute it as needed.
 
 
 ---
-
-👉 Do you want me to also add a **“Getting Started GIF/Screenshot”** in the README (like showing how the cards stack on mobile vs desktop), or just keep it text-based for now?
